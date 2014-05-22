@@ -42,7 +42,7 @@
 			}
 		},
 		"phone": "(212) 222-2636",
-		"address": ["945 Columbus Ave at 107th St", "\nManhattan, NY 10025"]
+		"address": "945 Columbus Ave at 107th St\nManhattan, NY 10025"
 	},
 	
 	"2":
@@ -85,7 +85,7 @@
 			}
 		},
 		"phone": "N/A",
-		"address": ["John Jay Dining Hall","\nColumbia University"]
+		"address": "John Jay Dining Hall\nColumbia University"
 	},
 	
 	"3":
@@ -124,7 +124,7 @@
 			}
 		},
 		"phone": "(212) 222-1566",
-		"address": ["2848 Broadway at 111th Street", "\nNew York, NY 10025"]
+		"address": "2848 Broadway at 111th Street\nNew York, NY 10025"
 	},
 	
 	"4":
@@ -163,7 +163,7 @@
 			}
 		},
 		"phone": "(212) 280-4600",
-		"address": ["2935 Broadway at 115th Street","\nNew York, NY 10025"]
+		"address": "2935 Broadway at 115th Street\nNew York, NY 10025"
 	},
 	
 	"5":
@@ -203,7 +203,7 @@
 			
 		},
 		"phone": "(212) 222-3568",
-		"address": ["2955 Broadway at 116th Street","\nNew York, NY 10027"]
+		"address": "2955 Broadway at 116th Street\nNew York, NY 10027"
 	},
 	
 	"6":
@@ -245,7 +245,7 @@
 			
 		},
 		"phone": "(212) 662-7900",
-		"address": ["2896 Broadway at 113th Street","\nNew York, NY"]
+		"address": "2896 Broadway at 113th Street\nNew York, NY"
 	},
 	
 	"7":
@@ -287,7 +287,7 @@
 			}
 		},
 		"phone": "(212) 864-6137",
-		"address": ["2880 Broadway","\nNew York, NY 10025"]
+		"address": "2880 Broadway\nNew York, NY 10025"
 	},
 	
 	"8":
@@ -326,7 +326,7 @@
 			}
 		},
 		"phone": "(212) 866-7035",
-		"address": ["2880 Broadway at 111th St, 2nd floor","\nNew York, NY 10025"]
+		"address": "2880 Broadway at 111th St, 2nd floor\nNew York, NY 10025"
 	}
 		
 }
