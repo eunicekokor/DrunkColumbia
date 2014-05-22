@@ -55,12 +55,14 @@ h3
 
 .list-entry
 {
-	background-color: red;
-	/* #75b2dd Columbia Blue */
+	background-color: #75b2dd; /* Columbia Blue */
 	height: 80px;
 	padding: 20px;
 <<<<<<< HEAD
-	border: 2px solid;
+	border: 2px solid;	
+	border-color: gray;
+	border-radius: 25px;
+
 =======
 >>>>>>> parent of c35d135... some css changes and readme stuff
 }
@@ -104,6 +106,7 @@ h3
 		text-shadow: -4px -4px 0px rgba(0, 0, 0, 0.5);
 	}
 }
+
 
 @-moz-keyframes slidein
 {
