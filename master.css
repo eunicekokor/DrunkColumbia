@@ -58,6 +58,10 @@ h3
 	background-color: #75b2dd; /* Columbia Blue */
 	height: 80px;
 	padding: 20px;
+	border: 2px solid;
+	border-color: gray;
+	border-radius: 25 px;
+
 }
 
 .list-header
