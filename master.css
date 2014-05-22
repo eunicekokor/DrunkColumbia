@@ -101,11 +101,11 @@ h3
 {
 	from
 	{
-		text-shadow: 20px -20px 20px rgba(0, 0, 0, 0.75);
+		text-shadow: 20px 20px 0px rgba(0, 0, 0, 0.75);
 	}
 	to
 	{
-		text-shadow: -20px 20px 20px rgba(0, 0, 0, 0.75);
+		text-shadow: -20px -20px 0px rgba(0, 0, 0, 0.75);
 	}
 }
 
@@ -114,10 +114,10 @@ h3
 {
 	from
 	{
-		text-shadow: 20px 20px 0px rgba(0, 0, 0, 0.75);
+		text-shadow: 20px -20px 20px rgba(0, 0, 0, 0.75);
 	}
 	to
 	{
-		text-shadow: -20px -20px 0px rgba(0, 0, 0, 0.75);
+		text-shadow: -20px 20px -20px rgba(0, 0, 0, 0.75);
 	}
 }
