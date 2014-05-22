@@ -12,8 +12,7 @@ html
 
 h1
 {
-	font-size: 165px;
-	/*change to margin later*/
+	font-size: 185px;
 	text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.5);
 	color: rgba(0, 0, 0, 0.5);
 	
@@ -31,7 +30,7 @@ h1
 #subtitle
 {
 	font-size: 2em;
-	margin: 10px 0;
+	margin-bottom: 40px;
 }
 
 header, footer
@@ -47,6 +46,15 @@ h2
 h3
 {
 	float: right;
+}
+
+input
+{
+  font-size: 1.5em;
+  line-height: 2em;
+  font-family: 'Raleway', sans-serif;
+  border-radius: 15px;
+  border: 0;
 }
 
 #list
