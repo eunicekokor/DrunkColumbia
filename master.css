@@ -11,8 +11,8 @@ html
 
 h1
 {
-	font-size: 7em;
-	padding-top: 20px;
+	font-size: 65px;
+	margin-top: 20px;
 	/*change to margin later*/
 	text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.5);
 	color: rgba(0, 0, 0, 0.5);
