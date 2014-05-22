@@ -55,12 +55,11 @@ h3
 
 .list-entry
 {
-	background-color: #75b2dd; /* Columbia Blue */
+	background-color: red;
+	/* #75b2dd Columbia Blue */
 	height: 80px;
 	padding: 20px;
 	border: 2px solid;
-	border-color: gray;
-	border-radius: 25px;
 }
 
 .list-header
